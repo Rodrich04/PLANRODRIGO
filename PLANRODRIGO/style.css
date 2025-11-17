@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  background: #f3f3f3;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.box {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 12px 0;
+}
